@@ -1,0 +1,30 @@
+C:\Users\sun\AppData\Local\Temporary Projects\amabot\bin\Debug\amabot.exe
+C:\Users\sun\AppData\Local\Temporary Projects\amabot\bin\Debug\amabot.pdb
+C:\Users\sun\AppData\Local\Temporary Projects\amabot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sun\AppData\Local\Temporary Projects\amabot\obj\Debug\amabot.Form1.resources
+C:\Users\sun\AppData\Local\Temporary Projects\amabot\obj\Debug\amabot.Properties.Resources.resources
+C:\Users\sun\AppData\Local\Temporary Projects\amabot\obj\Debug\amabot.csproj.GenerateResource.Cache
+C:\Users\sun\AppData\Local\Temporary Projects\amabot\obj\Debug\amabot.exe
+C:\Users\sun\AppData\Local\Temporary Projects\amabot\obj\Debug\amabot.pdb
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\bin\Debug\amabot.exe
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\bin\Debug\amabot.pdb
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Debug\ResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Debug\amabot.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Debug\amabot.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Debug\amabot.exe
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Debug\amabot.pdb
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Debug\amabot.AmazonLogin.resources
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Debug\amabot.forms.MainForm.resources
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\bin\Debug\NSoup.dll
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\bin\Debug\NPOI.dll
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Debug\amabot.forms.BotLoginForm.resources
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\bin\Debug\amabot.exe.manifest
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\bin\Debug\amabot.application
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Debug\amabot.TrustInfo.xml
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Debug\amabot.exe.manifest
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Debug\amabot.application
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Debug\amabot.forms.EmailForm.resources
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Debug\amabot.forms.EmailTemplateForm.resources
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Debug\amabot.forms.MailSettingForm.resources
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Debug\amabot.forms.MailProgressForm.resources

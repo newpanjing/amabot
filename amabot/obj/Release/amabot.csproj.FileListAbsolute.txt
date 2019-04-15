@@ -1,0 +1,20 @@
+C:\Users\sun\AppData\Local\Temporary Projects\amabot\bin\Release\amabot.exe
+C:\Users\sun\AppData\Local\Temporary Projects\amabot\bin\Release\amabot.pdb
+C:\Users\sun\AppData\Local\Temporary Projects\amabot\obj\Release\ResolveAssemblyReference.cache
+C:\Users\sun\AppData\Local\Temporary Projects\amabot\obj\Release\amabot.Form1.resources
+C:\Users\sun\AppData\Local\Temporary Projects\amabot\obj\Release\amabot.Properties.Resources.resources
+C:\Users\sun\AppData\Local\Temporary Projects\amabot\obj\Release\amabot.csproj.GenerateResource.Cache
+C:\Users\sun\AppData\Local\Temporary Projects\amabot\obj\Release\amabot.exe
+C:\Users\sun\AppData\Local\Temporary Projects\amabot\obj\Release\amabot.pdb
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Release\amabot.exe
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Release\amabot.pdb
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\bin\Release\amabot.exe
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\bin\Release\amabot.pdb
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Release\ResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Release\amabot.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Release\amabot.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Release\amabot.AmazonLogin.resources
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\bin\Release\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\bin\Release\NSoup.dll
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\obj\Release\amabot.forms.MainForm.resources
+\\Mac\Home\Documents\Visual Studio 2008\Projects\amabot\amabot\bin\Release\NPOI.dll
